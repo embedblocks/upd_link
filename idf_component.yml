@@ -1,0 +1,4 @@
+version: "0.1.0"
+description: "udp_link: UDP transport mechanism between two peer nodes (header, sequence, validation; no tasks, no policy)"
+dependencies:
+  idf: ">=6.0,<6.1"
