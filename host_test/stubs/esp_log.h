@@ -1,3 +1,0 @@
-#pragma once
-#include <stdio.h>
-#define ESP_LOGW(tag, fmt, ...) fprintf(stderr, "W (%s) " fmt "\n", tag, ##__VA_ARGS__)
