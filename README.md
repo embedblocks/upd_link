@@ -51,7 +51,7 @@ network interface (Wi-Fi, Ethernet, or loopback for testing).
 
 | Chip | Status |
 |---|---|
-| ESP32 | Expected to work |
+| ESP32 | Tested |
 | ESP32-S2 | Expected to work |
 | ESP32-S3 | Expected to work |
 | ESP32-C3 | Expected to work |
