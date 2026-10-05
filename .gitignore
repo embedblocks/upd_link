@@ -8,4 +8,4 @@ sdkconfig
 sdkconfig.old
 graveyard/
 dependencies.lock
-aircon-ir-replaced
+*.zip
